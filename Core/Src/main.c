@@ -21,7 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+/* Insert line */
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
